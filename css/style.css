@@ -8,7 +8,9 @@ html {
 body {
    margin: 0;
  }
-
+a{
+  color: #a8dadc;
+}
 header, footer {
   background-color: #457b9d;
   text-align: left;
